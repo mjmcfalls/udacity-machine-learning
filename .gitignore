@@ -75,3 +75,4 @@ pip-selfcheck.json
 dogImages
 lfw
 DogResnet50Data.npz
+projects/capstone/data/*
