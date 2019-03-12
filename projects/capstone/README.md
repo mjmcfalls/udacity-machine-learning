@@ -3,9 +3,4 @@
 ## Project: Capstone Proposal and Capstone Project
 
 **Note**
-
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
-
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly before submitting these two stages which encapsulate your capstone.
-
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+The data for the project is being hosted in my AWS S3 bucket located at <https://s3.us-east-2.amazonaws.com/mcfalls.me/mlnd_data/mens-machine-learning-competition-2019_src.zip> and is approxiately 202 MBs in size.
