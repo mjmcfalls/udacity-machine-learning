@@ -5,15 +5,15 @@ Available at Kaggle - https://www.kaggle.com/c/mens-machine-learning-competition
 
 ## Python packages
 * Pandas
- * Used for data wrangling
+    * Used for data wrangling
 * scikit-learn
- * Used for modeling
+    * Used for modeling
 * seaborn
- * Used for graphs
+    * Used for graphs
 * Pillow
- * Required by bracketeer
+    * Required by bracketeer
 * binarytree
- * Required by bracketeer
+    * Required by bracketeer
 * bracketeer 
- * Used to generate the tournament bracket
- * See requirements.txt for all used python packages.
+    * Used to generate the tournament bracket
+* See requirements.txt for all used python packages.
